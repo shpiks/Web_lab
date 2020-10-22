@@ -1,0 +1,9 @@
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\bin\Debug\netcoreapp3.1\WebApplication.DAL.deps.json
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\bin\Debug\netcoreapp3.1\WebApplication.DAL.dll
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.AssemblyInfoInputs.cache
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.AssemblyInfo.cs
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\bin\Debug\netcoreapp3.1\WebApplication.DAL.pdb
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.dll
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.pdb
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.csprojAssemblyReference.cache
+E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.csproj.CoreCompileInputs.cache
