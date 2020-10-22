@@ -7,3 +7,12 @@ E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebA
 E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.pdb
 E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.csprojAssemblyReference.cache
 E:\Bsuir\WebTechnology\Labs_Shpk\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.csproj.CoreCompileInputs.cache
+E:\Git\Web_lab\WebApplication.DAL\bin\Debug\netcoreapp3.1\WebApplication.DAL.deps.json
+E:\Git\Web_lab\WebApplication.DAL\bin\Debug\netcoreapp3.1\WebApplication.DAL.dll
+E:\Git\Web_lab\WebApplication.DAL\bin\Debug\netcoreapp3.1\WebApplication.DAL.pdb
+E:\Git\Web_lab\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.csprojAssemblyReference.cache
+E:\Git\Web_lab\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.csproj.CoreCompileInputs.cache
+E:\Git\Web_lab\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.AssemblyInfoInputs.cache
+E:\Git\Web_lab\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.AssemblyInfo.cs
+E:\Git\Web_lab\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.dll
+E:\Git\Web_lab\WebApplication.DAL\obj\Debug\netcoreapp3.1\WebApplication.DAL.pdb

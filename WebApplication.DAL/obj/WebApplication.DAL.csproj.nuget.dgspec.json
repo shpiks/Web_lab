@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bsuir\\WebTechnology\\Labs_Shpk\\WebApplication.DAL\\WebApplication.DAL.csproj": {}
+    "E:\\Git\\Web_lab\\WebApplication.DAL\\WebApplication.DAL.csproj": {}
   },
   "projects": {
-    "E:\\Bsuir\\WebTechnology\\Labs_Shpk\\WebApplication.DAL\\WebApplication.DAL.csproj": {
+    "E:\\Git\\Web_lab\\WebApplication.DAL\\WebApplication.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bsuir\\WebTechnology\\Labs_Shpk\\WebApplication.DAL\\WebApplication.DAL.csproj",
+        "projectUniqueName": "E:\\Git\\Web_lab\\WebApplication.DAL\\WebApplication.DAL.csproj",
         "projectName": "WebApplication.DAL",
-        "projectPath": "E:\\Bsuir\\WebTechnology\\Labs_Shpk\\WebApplication.DAL\\WebApplication.DAL.csproj",
+        "projectPath": "E:\\Git\\Web_lab\\WebApplication.DAL\\WebApplication.DAL.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "E:\\Bsuir\\WebTechnology\\Labs_Shpk\\WebApplication.DAL\\obj\\",
+        "outputPath": "E:\\Git\\Web_lab\\WebApplication.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
