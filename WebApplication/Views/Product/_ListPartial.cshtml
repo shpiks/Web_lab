@@ -1,0 +1,10 @@
+﻿@model ListViewModel<Phone>
+
+@{
+    ViewData["Title"] = "_ListPartial";
+}
+
+@foreach (var item in Model)
+{
+    <partial name="_ListItemPartial" model="@item" />
+}
